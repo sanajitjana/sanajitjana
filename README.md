@@ -65,3 +65,4 @@
 [twitter]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg
 [linkedin]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
 [Sanajit Jana]:
+[Spotify]:https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg
