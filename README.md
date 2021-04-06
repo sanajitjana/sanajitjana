@@ -34,7 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanajit-jana)](https://github.com/sanajit-jana?tab=repositories)
 
-<br />
 <br/>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -54,20 +53,18 @@
 <br />
 <br />
 
----
-
 <details>
-  <summary>:Zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. <a href="https://github.com/Sanajit-Jana/react-digital-clock.git"><img align="left" alt="HTML5" width="26px" />React Digital Clock with Greetings</a>
-2. <a href="https://github.com/Sanajit-Jana/laravel-contact-form.git"><img align="left" alt="HTML5" width="26px" />Laravel Contact Form</a>
+1. <a href="https://github.com/Sanajit-Jana/react-digital-clock.git"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />React Digital Clock with Greetings</a>
+2. <a href="https://github.com/Sanajit-Jana/laravel-contact-form.git"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
 
 </details>
