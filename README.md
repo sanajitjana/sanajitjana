@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Gaana]](https://gaana.com/song/despacito-152)
+[![Spotify]](https://open.spotify.com/album/0wNiULI2D1sSbM60XaLJH1?highlight=spotify:track:7lgvGRC1gN0JGgY9VGXsQT)
 
 ### Connect with me:
 
