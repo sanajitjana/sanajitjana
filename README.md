@@ -7,7 +7,7 @@
 
 ### I'm a Student, Programmer, Computer hobbyist, Designer!
 
-- 🔭 I just launched my portfolio: [Sanajit Jana!][website]!
+- 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/)
 - 🌱 I’m currently learning React with Laravel 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
