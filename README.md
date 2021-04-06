@@ -3,7 +3,7 @@
 ## Hi there, I'm Sanajit Jana [Coder - Love my Occupation] 👋
 ### I'm a Student, Programmer, Computer hobbyist, Designer!
 
-- 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/)
+<!-- - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/) -->
 - 🌱 I’m currently learning React with Laravel 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
@@ -64,3 +64,4 @@
 [behance]: https://www.behance.net/sanajitjana1
 [twitter]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg
 [linkedin]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+[Sanajit Jana]:
