@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]](https://open.spotify.com/album/0wNiULI2D1sSbM60XaLJH1?highlight=spotify:track:7lgvGRC1gN0JGgY9VGXsQT)
+<a href="https://open.spotify.com/album/0wNiULI2D1sSbM60XaLJH1?highlight=spotify:track:7lgvGRC1gN0JGgY9VGXsQT">My Spotify Song</a>
 
 ### Connect with me:
 
