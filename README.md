@@ -1,7 +1,7 @@
 <!-- This Sanajit-Jana/sanajit-jana Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-### Hi there, I'm Sanajit Jana [Coder - Love my Occupation] 👋
-## I'm a Student, Programmer, Computer hobbyist, Designer!
+## Hi there, I'm Sanajit Jana [Coder - Love my Occupation] 👋
+### I'm a Student, Programmer, Computer hobbyist, Designer!
 
 - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/)
 - 🌱 I’m currently learning React with Laravel 😎
@@ -51,7 +51,7 @@
 
 <details>
   <summary>Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. <a href="https://github.com/Sanajit-Jana/react-digital-clock.git"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" style="color:#61DBFB;"/>React Digital Clock with Greetings</a>
 2. <a href="https://github.com/Sanajit-Jana/laravel-contact-form.git"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
