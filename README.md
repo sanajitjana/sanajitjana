@@ -1,7 +1,7 @@
 <!-- This Sanajit-Jana/sanajit-jana Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-## Hi there, I'm Sanajit Jana [Coder - Love my Occupation] 👋
-### I'm a Student, Programmer, Computer hobbyist, Designer!
+# Hi there, I'm Sanajit Jana [Coder - Love my Occupation] 👋
+## I'm a Student, Programmer, Computer hobbyist, Designer!
 
 <!-- - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/) -->
 - 🌱 I’m currently learning React with Laravel 😎
@@ -29,8 +29,6 @@
 ### Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanajit-jana)](https://github.com/sanajit-jana?tab=repositories)
-
-<br/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
