@@ -49,12 +49,8 @@
 
 <details>
   <summary>Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Sanajit-Jana/git-github/pull/1) in [Sanajit-Jana/git-github](https://github.com/Sanajit-Jana/git-github)
-2. <a href="https://github.com/Sanajit-Jana/laravel-contact-form.git"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
-<!--END_SECTION:activity-->
-
+1. <a href="https://github.com/Sanajit-Jana/react-digital-clock.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Digital Clock with Greetings</a>
+2. <a href="https://github.com/Sanajit-Jana/laravel-curd.git"><img align="left" alt="laravel-curd" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
 </details>
 
 [stackoverflow]: https://stackoverflow.com/users/15557408/sanajit-jana
