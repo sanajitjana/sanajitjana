@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: 
         with:
-          comment_tag_name: "YOUTUBE"
+          comment_tag_name: 
           feed_list: "#"
