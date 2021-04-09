@@ -1,6 +1,6 @@
 <!-- This Sanajit-Jana/sanajit-jana Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi there, I'm Sanajit Jana [Coder - Love my Occupation] 👋
+# Hi there, I'm Sanajit Jana [Web Developer] 👋
 ## I'm a Student, Programmer, Computer hobbyist, Designer!
 
 <!-- - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/) -->
