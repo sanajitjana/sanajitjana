@@ -49,7 +49,7 @@
 
 <details>
   <summary>Recent GitHub Activity</summary>
-1. <a href="https://github.com/Sanajit-Jana/react-digital-clock.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Digital Clock with Greetings</a>
+1. <a href="https://github.com/Sanajit-Jana/react-digital-clock.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Digital Clock with Greetings</a><br/>
 2. <a href="https://github.com/Sanajit-Jana/laravel-curd.git"><img align="left" alt="laravel-curd" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
 </details>
 
