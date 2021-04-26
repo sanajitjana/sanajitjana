@@ -1,6 +1,6 @@
 <!-- This Sanajit-Jana/sanajit-jana Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi there, I'm Sanajit Jana [Frontend Designerr] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Sanajit Jana [Frontend Designer]
 ## I'm a Student, Programmer, Computer hobbyist, Designer!
 
 <!-- - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/) -->
