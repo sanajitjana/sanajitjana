@@ -13,6 +13,7 @@
 
 ### Connect with me:
 
+<hr/>
 <a href="https://stackoverflow.com/users/15557408/sanajit-jana" targer="_blank"><img align="left" alt="Sanajit Jana | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 <a href="https://www.linkedin.com/in/sanajit-jana-60880b190/" targer="_blank"><img align="left" alt="Sanajit Jana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/SanajitJana9" targer="_blank"><img align="left" alt="Sanajit Jana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
