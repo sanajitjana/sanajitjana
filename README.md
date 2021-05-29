@@ -11,8 +11,6 @@
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
 
-<br />
-
 ### Connect with me:
 
 <a href="https://stackoverflow.com/users/15557408/sanajit-jana" targer="_blank"><img align="left" alt="Sanajit Jana | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
