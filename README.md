@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love to make photos and videos
 
 <br />
-<br />
 
 ### Connect with me:
 
