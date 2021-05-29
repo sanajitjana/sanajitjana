@@ -47,15 +47,16 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- <a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
 
 <br />
 <br />
 
-### Recent GitHub Activity
+### Recent GitHub Activity:
 
-- <a href="https://github.com/sanajitjana/react-props.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
-- <a href="https://github.com/sanajitjana/react-map-method.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
-- <a href="https://github.com/sanajitjana/react-website.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
-- <a href="https://github.com/sanajitjana/react-greetings-website.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
-- <a href="https://github.com/Sanajit-Jana/laravel-curd.git"><img align="left" alt="laravel-curd" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a><br/>
-- <a href="https://github.com/sanajitjana?tab=repositories"> And Much More..</a>
+- <a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
+- <a href="https://github.com/sanajitjana/react-map-method.git" targer="_blank"><img align="left" alt="React Map Method" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
+- <a href="https://github.com/sanajitjana/react-website.git" targer="_blank"><img align="left" alt="React Protfolio Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
+- <a href="https://github.com/sanajitjana/react-greetings-website.git" targer="_blank"><img align="left" alt="React Greetings Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
+- <a href="https://github.com/Sanajit-Jana/laravel-curd.git" targer="_blank"><img align="left" alt="Laravel Contact Form" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a><br/>
+- <a href="https://github.com/sanajitjana?tab=repositories" targer="_blank"> And Much More..</a>
