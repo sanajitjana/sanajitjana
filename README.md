@@ -52,11 +52,11 @@
 <br />
 <br />
 
-#### Recent GitHub Activity
+### Recent GitHub Activity
 
-1. <a href="https://github.com/sanajitjana/react-props.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
-2. <a href="https://github.com/sanajitjana/react-map-method.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
-3. <a href="https://github.com/sanajitjana/react-website.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
-4. <a href="https://github.com/sanajitjana/react-greetings-website.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
-5. <a href="https://github.com/Sanajit-Jana/laravel-curd.git"><img align="left" alt="laravel-curd" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a><br/>
-6. <a href="https://github.com/sanajitjana?tab=repositories"> And Much More..</a>
+- <a href="https://github.com/sanajitjana/react-props.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
+- <a href="https://github.com/sanajitjana/react-map-method.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
+- <a href="https://github.com/sanajitjana/react-website.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
+- <a href="https://github.com/sanajitjana/react-greetings-website.git"><img align="left" alt="react-digital-clock" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
+- <a href="https://github.com/Sanajit-Jana/laravel-curd.git"><img align="left" alt="laravel-curd" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a><br/>
+- <a href="https://github.com/sanajitjana?tab=repositories"> And Much More..</a>
