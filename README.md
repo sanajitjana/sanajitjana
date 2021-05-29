@@ -2,9 +2,14 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, It's Sanajit
 
-## I'm a Developer, Designer and also a Computer hobbyist !
+## I'm a Front-end Developer, Designer and also a Computer hobbyist !
+
+I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer) based in Kolkata, WB-India.
+Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 <!-- - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/) -->
+
+### What I'm focusing on:
 
 - 🌱 Currently learning React with Laravel 😎
 - 👯 Also I’m looking to collaborate with other developer
