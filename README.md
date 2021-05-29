@@ -52,6 +52,7 @@
 <br />
 
 - <a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
+- <a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
 
 <br />
 <br />
