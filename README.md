@@ -17,7 +17,7 @@
 <a href="https://in.pinterest.com/sanajitjana1/_saved/" targer="_blank"><img align="left" alt="Sanajit Jana | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" /></a>
 <a href="https://dribbble.com/Sanajit" targer="_blank"><img align="left" alt="Sanajit Jana | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" /></a> -->
 
-### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=page.id)
+### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=#76105799)
 
 <br/>
 
@@ -36,11 +36,8 @@ Since 2017 I've been living and breathing web development and creating modern an
 - ⚡ Fun fact: I love to make photos and videos
 
   <br />
-  <br />
 
 ### Known Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana)](https://github.com/sanajitjana?tab=repositories)
 
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
