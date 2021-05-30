@@ -7,16 +7,16 @@
 I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
-<!-- - 🔭 I just will be launch my portfolio: [![Sanajit Jana]](http://sananjitjana.in/) -->
+<!-- - 🔭 I just launched my portfolio: **[sananjitjana.in](https://www.sananjitjana.in/)**-->
 
-### What I'm focusing on:
+### What I'm focusing on 👨‍💻
 
 - 🌱 Currently learning React with Laravel 😎
 - 👯 Also I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
 
-### Connect with me:
+### Find me elsewhere 🌎
 
 <a href="https://stackoverflow.com/users/15557408/sanajit-jana" targer="_blank"><img align="left" alt="Sanajit Jana | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 <a href="https://www.linkedin.com/in/sanajit-jana-60880b190/" targer="_blank"><img align="left" alt="Sanajit Jana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -57,9 +57,10 @@ Since 2017 I've been living and breathing web development and creating modern an
 <details>
 <summary> Recent GitHub Activity </summary>
 
-- <a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
-- <a href="https://github.com/sanajitjana/react-map-method.git" targer="_blank"><img align="left" alt="React Map Method" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
-- <a href="https://github.com/sanajitjana/react-website.git" targer="_blank"><img align="left" alt="React Protfolio Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
-- <a href="https://github.com/sanajitjana/react-greetings-website.git" targer="_blank"><img align="left" alt="React Greetings Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
-- <a href="https://github.com/Sanajit-Jana/laravel-curd.git" targer="_blank"><img align="left" alt="Laravel Contact Form" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
+<a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
+<a href="https://github.com/sanajitjana/react-map-method.git" targer="_blank"><img align="left" alt="React Map Method" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
+<a href="https://github.com/sanajitjana/react-website.git" targer="_blank"><img align="left" alt="React Protfolio Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
+<a href="https://github.com/sanajitjana/react-greetings-website.git" targer="_blank"><img align="left" alt="React Greetings Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
+<a href="https://github.com/Sanajit-Jana/laravel-curd.git" targer="_blank"><img align="left" alt="Laravel Contact Form" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
+
 </details>
