@@ -1,6 +1,6 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi there, It's Sanajit
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, It's Sanajit
 
 ## I'm a Front-end Developer, Designer and also a Computer hobbyist !
 
@@ -16,7 +16,9 @@ Since 2017 I've been living and breathing web development and creating modern an
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
 
-### Find me elsewhere 🌎
+<br/>
+
+### Find me elsewhere:
 
 <a href="https://stackoverflow.com/users/15557408/sanajit-jana" targer="_blank"><img align="left" alt="Sanajit Jana | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 <a href="https://www.linkedin.com/in/sanajit-jana-60880b190/" targer="_blank"><img align="left" alt="Sanajit Jana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
