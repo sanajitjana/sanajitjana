@@ -26,7 +26,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 <!-- - 🔭 I just launched my portfolio: **[sananjitjana.in](https://www.sananjitjana.in/)**-->
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### What I'm focusing on 👨‍💻
 
