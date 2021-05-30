@@ -1,6 +1,6 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi there, I'm <a href="https://sanajitjana.herokuapp.com" target="_blank">Sanajt Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm <a href="https://sanajitjana.herokuapp.com" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Front-end Developer, Designer and also a Computer hobbyist !
 
