@@ -18,7 +18,6 @@
 <a href="https://dribbble.com/Sanajit" targer="_blank"><img align="left" alt="Sanajit Jana | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" /></a> -->
 
 <!-- ### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=#76105799)
-
 <br/> -->
 
 I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer) based in Kolkata, WB-India.
