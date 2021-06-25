@@ -71,6 +71,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### Recent GitHub Activity:
 
+<details>
 - [x] <a href="https://github.com/sanajitjana/react-digital-clock">React Digital Clock</a><br/>
 - [x] <a href="https://github.com/sanajitjana/covid19-tracker">India - State Wise Covid19 tracker</a><br/>
 - [x] <a href="https://github.com/sanajitjana/react-website">React Website</a><br/>
@@ -79,3 +80,4 @@ Since 2017 I've been living and breathing web development and creating modern an
 - [x] <a href="https://github.com/sanajitjana/react-map-method.git">React Map Method</a><br/>
 - [x] <a href="https://github.com/sanajitjana/react-greetings-website.git">React Greetings Website</a><br/>
 - [x] <a href="https://github.com/Sanajit-Jana/laravel-curd.git">Laravel Contact Form</a>
+</details>
