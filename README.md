@@ -70,15 +70,11 @@ Since 2017 I've been living and breathing web development and creating modern an
 </p>
 
 <br />
-<br />
 
-<details>
 <summary> Recent GitHub Activity: </summary>
 
-<a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
-<a href="https://github.com/sanajitjana/react-map-method.git" targer="_blank"><img align="left" alt="React Map Method" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
-<a href="https://github.com/sanajitjana/react-website.git" targer="_blank"><img align="left" alt="React Protfolio Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
-<a href="https://github.com/sanajitjana/react-greetings-website.git" targer="_blank"><img align="left" alt="React Greetings Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
-<a href="https://github.com/Sanajit-Jana/laravel-curd.git" targer="_blank"><img align="left" alt="Laravel Contact Form" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
-
-</details>
+- [x] <a href="https://github.com/sanajitjana/react-props.git" targer="_blank"><img align="left" alt="React Props" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Props</a><br/>
+- [x] <a href="https://github.com/sanajitjana/react-map-method.git" targer="_blank"><img align="left" alt="React Map Method" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Map Method</a><br/>
+- [x] <a href="https://github.com/sanajitjana/react-website.git" targer="_blank"><img align="left" alt="React Protfolio Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
+- [x] <a href="https://github.com/sanajitjana/react-greetings-website.git" targer="_blank"><img align="left" alt="React Greetings Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
+- [x] <a href="https://github.com/Sanajit-Jana/laravel-curd.git" targer="_blank"><img align="left" alt="Laravel Contact Form" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
