@@ -71,8 +71,8 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### Recent GitHub Activity:
 
-- [x] <a href="https://github.com/sanajitjana/react-props.git">React Props<br/>
-- [x] <a href="https://github.com/sanajitjana/react-map-method.git">React Map Method<br/>
+- [x] <a href="https://github.com/sanajitjana/react-props.git">React Props</a><br/>
+- [x] <a href="https://github.com/sanajitjana/react-map-method.git">React Map Method</a><br/>
 - [x] <a href="https://github.com/sanajitjana/react-website.git">React Protfolio Website</a><br/>
 - [x] <a href="https://github.com/sanajitjana/react-greetings-website.git">React Greetings Website</a><br/>
 - [x] <a href="https://github.com/Sanajit-Jana/laravel-curd.git">Laravel Contact Form</a>
