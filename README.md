@@ -73,6 +73,6 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 - [x] <a href="https://github.com/sanajitjana/react-props.git">React Props<br/>
 - [x] <a href="https://github.com/sanajitjana/react-map-method.git">React Map Method<br/>
-- [x] <a href="https://github.com/sanajitjana/react-website.git"><img align="left" alt="React Protfolio Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Protfolio Website</a><br/>
-- [x] <a href="https://github.com/sanajitjana/react-greetings-website.git"><img align="left" alt="React Greetings Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">React Greetings Website</a><br/>
-- [x] <a href="https://github.com/Sanajit-Jana/laravel-curd.git"><img align="left" alt="Laravel Contact Form" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />Laravel Contact Form</a>
+- [x] <a href="https://github.com/sanajitjana/react-website.git">React Protfolio Website</a><br/>
+- [x] <a href="https://github.com/sanajitjana/react-greetings-website.git">React Greetings Website</a><br/>
+- [x] <a href="https://github.com/Sanajit-Jana/laravel-curd.git">Laravel Contact Form</a>
