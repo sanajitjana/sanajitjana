@@ -69,7 +69,7 @@ Since 2017 I've been living and breathing web development and creating modern an
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-### Recent GitHub Activity:
+<summery> Recent GitHub Activity: </summery>
 
 <details>
 - [x] <a href="https://github.com/sanajitjana/react-digital-clock">React Digital Clock</a><br/>
