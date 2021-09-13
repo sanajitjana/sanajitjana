@@ -20,7 +20,7 @@
 <!-- ### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=#76105799)
 <br/> -->
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer) based in Kolkata, WB-India.
+I work as a Web Developer with UI/UX design skills (front-end design) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 <!-- - 🔭 I just launched my portfolio: **[sananjitjana.in](https://www.sananjitjana.in/)**-->
