@@ -18,7 +18,7 @@
 <a href="https://in.pinterest.com/sanajitjana1/_saved/" targer="_blank"><img align="left" alt="Sanajit Jana | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" /></a>
 <a href="https://dribbble.com/Sanajit" targer="_blank"><img align="left" alt="Sanajit Jana | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" /></a> -->
 
-### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=#76105799)
+### Glad to see you ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
 
 <br/>
 
