@@ -18,8 +18,9 @@
 <a href="https://in.pinterest.com/sanajitjana1/_saved/" targer="_blank"><img align="left" alt="Sanajit Jana | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" /></a>
 <a href="https://dribbble.com/Sanajit" targer="_blank"><img align="left" alt="Sanajit Jana | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" /></a> -->
 
-<!-- ### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=#76105799)
-<br/> -->
+### Glad to see you ![visitors](https://visitor-badge.glitch.me/badge?sanajitjana=#76105799)
+
+<br/>
 
 I work as a Web Developer with UI/UX design skills (front-end design) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
