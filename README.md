@@ -36,7 +36,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 - 👯 Also I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
-- 🔭 I just launched my portfolio: **[sananjitjana.github.io](https://www.sananjitjana.github.io/)**
+- 🔭 I just launched my portfolio: **[https://sanajitjana.github.io/](https://sananjitjana.github.io/)**
 
   <br />
 
