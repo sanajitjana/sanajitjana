@@ -1,12 +1,12 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi there, Myself <a href="https://sanajitjana.herokuapp.com" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Web Developer, Designer and also a Computer hobbyist !
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sanajitjana.herokuapp.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanajit-jana-60880b190/)
-[![Linkedin Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/sanajitjanadeveloper)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sanajitjana.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanajitjana01/)
+[![Linkedin Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/sanajitjana01)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sanajitjana01)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sanajitjana01/)
 [![Telegram Badge](https://img.shields.io/badge/-Medium-00acee?style=flat-square&logo=Medium&logoColor=white)](https://sanajitjana.medium.com/)
@@ -25,7 +25,7 @@
 I work as a Web Developer with UI/UX design skills (front-end design) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
-<!-- - 🔭 I just launched my portfolio: **[sananjitjana.in](https://www.sananjitjana.in/)**-->
+- 🔭 I just launched my portfolio: **[sananjitjana.github.io](https://www.sananjitjana.github.io/)**
 
 <img align="right" alt="GIF" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" width="408" height="318" />
 
