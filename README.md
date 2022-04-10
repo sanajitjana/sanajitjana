@@ -25,7 +25,6 @@
 I work as a Web Developer with UI/UX design skills (front-end design) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
-- 🔭 I just launched my portfolio: **[sananjitjana.github.io](https://www.sananjitjana.github.io/)**
 
 <img align="right" alt="GIF" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -37,6 +36,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 - 👯 Also I’m looking to collaborate with other developer
 - 🥅 2020 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
+- 🔭 I just launched my portfolio: **[sananjitjana.github.io](https://www.sananjitjana.github.io/)**
 
   <br />
 
