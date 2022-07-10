@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 24:00 IST == 6:30 UTC
+  schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -13,8 +13,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.sanajitjana }}
+          GITHUB_TOKEN: ${{ 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 }}
+          USERNAME: ${{ sanajitjana }}
+          SETTING_JSON: ${{
       - name: Commit & Push
         run: |
           git config user.name sanajitjana
