@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ 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 }}
           USERNAME: ${{ sanajitjana }}
-          SETTING_JSON: ${{
       - name: Commit & Push
         run: |
           git config user.name sanajitjana
