@@ -87,4 +87,4 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 </details>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
