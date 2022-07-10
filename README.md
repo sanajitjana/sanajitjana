@@ -1,6 +1,7 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
 # Hi there, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a>
+
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 ## I'm a Web Developer, Designer and also a Computer hobbyist !
@@ -25,7 +26,6 @@
 
 I work as a Web Developer with UI/UX design skills (front-end design) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
-
 
 <img align="right" alt="GIF" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -86,3 +86,5 @@ Since 2017 I've been living and breathing web development and creating modern an
 8. <a href="https://github.com/Sanajit-Jana/laravel-curd.git">Laravel Contact Form</a>
 
 </details>
+
+![](./profile-3d-contrib/profile-green-animate.svg)

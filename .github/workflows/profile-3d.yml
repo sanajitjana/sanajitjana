@@ -9,7 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    run: ./bin/make_lgtm.sh
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
