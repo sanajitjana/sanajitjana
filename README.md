@@ -32,7 +32,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 
   <br />
 
-### Known Languages:
+### Familiar Languages:
 
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
@@ -52,13 +52,17 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
 
 ### My GitHub Stats:
+
+![Sanajit's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+| ![Sanajit's github stats](https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) | ![Sanajit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&theme=radical) |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
