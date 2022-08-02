@@ -11,7 +11,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sanajitjana01/)
 [![Telegram Badge](https://img.shields.io/badge/-Medium-00acee?style=flat-square&logo=Medium&logoColor=white)](https://sanajitjana.medium.com/)
 
-### Glad to see you ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
+![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Follow&style=social)
 
 <br/>
 
