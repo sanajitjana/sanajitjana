@@ -4,8 +4,6 @@
 
 ## I'm a Web Developer, Designer and Life-Long Learner!
 
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
-
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sanajitjana.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanajitjana01/)
 [![Linkedin Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/sanajitjana01)
@@ -19,8 +17,6 @@
 
 I work as a Web Developer with UI/UX design skills (front-end design) based in Kolkata, WB-India.
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
-
-<!-- <img align="right" alt="GIF" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
 <br/>
 
@@ -37,6 +33,8 @@ Since 2017 I've been living and breathing web development and creating modern an
   <br />
 
 ### Known Languages:
+
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
