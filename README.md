@@ -2,7 +2,7 @@
 
 # Hi there, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Web Developer, Designer and also a Computer hobbyist !
+## I'm a Web Developer, Designer and Life-Long Learner!
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sanajitjana.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanajitjana01/)
@@ -24,7 +24,8 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-- 🌱 Learning Java programming language 😎
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🌱 Currently learning Java programming 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
@@ -62,20 +63,5 @@ Since 2017 I've been living and breathing web development and creating modern an
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-### Recent GitHub Activity:
-
-<details>
-
-1. <a href="https://github.com/sanajitjana/react-digital-clock">React Digital Clock</a><br/>
-2. <a href="https://github.com/sanajitjana/covid19-tracker">India - State Wise Covid19 tracker</a><br/>
-3. <a href="https://github.com/sanajitjana/react-website">React Website</a><br/>
-4. <a href="https://github.com/sanajitjana/react-hooks">React Hooks</a><br/>
-5. <a href="https://github.com/sanajitjana/react-props.git">React Props</a><br/>
-6. <a href="https://github.com/sanajitjana/react-map-method.git">React Map Method</a><br/>
-7. <a href="https://github.com/sanajitjana/react-greetings-website.git">React Greetings Website</a><br/>
-8. <a href="https://github.com/Sanajit-Jana/laravel-curd.git">Laravel Contact Form</a>
-
-</details>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
