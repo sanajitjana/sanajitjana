@@ -12,7 +12,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Medium-00acee?style=flat-square&logo=Medium&logoColor=white)](https://sanajitjana.medium.com/)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Follow&style=social)
+![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Follow&style=flat)
 
 <br/>
 
