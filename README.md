@@ -63,12 +63,12 @@ Since 2017 I've been living and breathing web development and creating modern an
   <img src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-<p>
+<p style="width: 100%; height: 100%">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 </p>
 
-<p>
+<p style="width: 100%; height: 100%">
   <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&locale=en&count_private=true&hide_rank=true&disable_animations=true"/>
 </p>
