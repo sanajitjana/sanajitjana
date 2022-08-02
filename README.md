@@ -1,6 +1,6 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi there, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Web Developer, Designer and Life-Long Learner!
 
@@ -60,7 +60,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 <!-- ### My GitHub Stats: -->
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react-dark" />
 </p>
 
 <p>
