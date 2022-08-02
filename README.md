@@ -71,8 +71,8 @@ Since 2017 I've been living and breathing web development and creating modern an
 </p>
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"/>
 </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
