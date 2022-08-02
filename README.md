@@ -24,7 +24,8 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-<img width="408" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Currently learning Java programming 😎
 - 👯 I’m looking to collaborate with other developer
