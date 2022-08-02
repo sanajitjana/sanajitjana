@@ -60,19 +60,19 @@ Since 2017 I've been living and breathing web development and creating modern an
 ### My GitHub Stats:
 
 <p>
-<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 <!-- ![Sanajit's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) -->
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&theme=radical"/>
 </p>
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajitjana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"/>
 </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
