@@ -1,8 +1,6 @@
 <!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
 
-# Hi there, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Web Developer, Designer and also a Computer hobbyist !
 
@@ -12,13 +10,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sanajitjana01)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sanajitjana01/)
 [![Telegram Badge](https://img.shields.io/badge/-Medium-00acee?style=flat-square&logo=Medium&logoColor=white)](https://sanajitjana.medium.com/)
-
-<a href="https://stackoverflow.com/users/15557408/sanajit-jana" targer="_blank"><img align="left" alt="Sanajit Jana | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<a href="https://www.facebook.com/sanajitjanafb" targer="_blank"><img align="left" alt="Sanajit Jana | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.instagram.com/mr.sanajit/" targer="_blank"><img align="left" alt="Sanajit Jana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.behance.net/sanajitjana1" targer="_blank"><img align="left" alt="Sanajit Jana | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" /></a>
-<a href="https://in.pinterest.com/sanajitjana1/_saved/" targer="_blank"><img align="left" alt="Sanajit Jana | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" /></a>
-<a href="https://dribbble.com/Sanajit" targer="_blank"><img align="left" alt="Sanajit Jana | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" /></a>
 
 ### Glad to see you ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
 
@@ -33,7 +24,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-- 🌱 Currently learning Java programming language 😎
+- 🌱 Learning Java programming language 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Make Project and Contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
