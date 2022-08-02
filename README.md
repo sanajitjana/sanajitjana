@@ -60,7 +60,7 @@ Since 2017 I've been living and breathing web development and creating modern an
 <!-- ### My GitHub Stats: -->
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&count_private=true&include_all_commits=true&theme=react-dark&bg_color=#000000&color=#000000&radius=5" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sanajitjana&show_icons=true&count_private=true&include_all_commits=true&theme=react-dark&bg_color=#FFFFFF&radius=5" />
 </p>
 
 <p>
