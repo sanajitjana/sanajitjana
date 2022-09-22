@@ -35,26 +35,15 @@
 
 <!-- language -->
 
-<img align="left" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px"/>
-<img align="left" alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50px"/>
-<img align="left" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
-<img align="left" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
-<img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"/>
-<img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px"/>
-<img align="left" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px"/>
-<img align="left" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/>          
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)]()
 
-<br/>
 <br/>
 
 ### Used Tools:
 
-<img align="left" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40px"/>
-<img align="left" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50px"/>
-<img align="left" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px"/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts,eclips)]()
 
 
-<br />
 <br />
 
 ### Interests:
