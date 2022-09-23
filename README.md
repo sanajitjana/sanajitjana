@@ -25,6 +25,7 @@
 - 🥅 2022 goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
 - 🔭 I just launched my portfolio: **[https://sanajitjana.github.io/](https://sanajitjana.github.io)**
+- 💼 See my experience over the year: **[Resume](https://sanajitjana.github.io/packages/resume/Sanajit%20Jana_Resume.pdf)**
 
   <br />
 
