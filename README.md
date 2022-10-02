@@ -42,7 +42,7 @@
 
 ### Used Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts,eclips)](http://sanajitjana.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)](http://sanajitjana.github.io/)
 
 
 <br />
