@@ -11,6 +11,8 @@
 <a href="https://twitter.com/KOTESWARARAO791"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
+<br/>
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
 ![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Github%20Connection&style=flat)
 
