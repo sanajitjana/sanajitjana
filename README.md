@@ -10,12 +10,10 @@
 <a href="https://twitter.com/sanajitjana01"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:mail.sanajitjana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
-<br/>
-
 <a href="https://leetcode.com/sanajitjana/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/sanajitjana"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
+<br/>
 <br/>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
