@@ -2,17 +2,16 @@
 
 # Hi, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Web Developer, Designer and Life-Long Learner!
+## I'm a Full-Stack Web Developer, Designer and Life-Long Learner!
 
 <div align="left">
-<a href="https://sanajitjana.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-43B5CB.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://sanajitjana.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanajitjana01/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mail.sanajitjana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
 <a href="https://leetcode.com/sanajitjana/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/sanajitjana"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</div>
 
-<br/>
 <br/>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
