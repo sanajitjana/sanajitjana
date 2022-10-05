@@ -7,7 +7,6 @@
 <div align="left">
 <a href="https://sanajitjana.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-43B5CB.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanajitjana01/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/sanajitjana01"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:mail.sanajitjana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <a href="https://leetcode.com/sanajitjana/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
