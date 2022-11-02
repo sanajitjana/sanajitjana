@@ -39,13 +39,13 @@
 
 <!-- language -->
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)](http://sanajitjana.github.io/)
+[![](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)]()
 
 <br/>
 
 ### Used Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)](http://sanajitjana.github.io/)
+[![](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)]()
 
 
 <br />
