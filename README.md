@@ -62,4 +62,4 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
