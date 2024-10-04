@@ -23,7 +23,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Currently learning Java programming 😎
+- 🌱 Working with Java, Spring Boot, AWS, MySQL, Docker, React Js, HTML, CSS, JavaScript and UI/UX 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
