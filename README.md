@@ -1,9 +1,10 @@
-<!-- This Sanajit-Jana/sanajitjana's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
+<!-- Sanajit-Jana/sanajitjana's GitHub Profile -->
 
-# Hi, Myself <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Full-Stack Web Developer, Designer and Life-Long Learner!
+## 🚀 Full-Stack Web Developer | Backend Specialist | Life-Long Learner
 
+### 📬 Connect with Me:
 <div align="left">
 <a href="https://sanajitjana.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanajitjana01/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,53 +13,43 @@
 <a href="https://www.hackerrank.com/sanajitjana"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </div>
 
-<br/>
+---
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Github%20Connection&style=flat)
+### 🎯 What I'm Working On:
+- 🌱 Deepening my expertise in **Spring Boot, AWS, PostgreSQL, Docker, and Microservices**
+- 🛠️ Building **scalable microservice-based backend solutions**
+- 👥 Open to collaborating with other developers and contributing to **Open Source**
+- 🎯 2024 Goals: Deliver high-performance projects & enhance system architecture skills
+- 📢 Check out my portfolio: **[sanajitjana.github.io](https://sanajitjana.github.io)**
+- 📝 View my **[Resume](https://drive.google.com/uc?export=download&id=1jtjEph6YqdL_PebgMn3OwNHgH4wopH4Z)**
 
-<br/>
+---
 
-### What I'm focusing on 👨‍💻
+### 🔧 Tech Stack & Tools:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,redis,docker,aws" alt="Backend Technologies"/><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,php" alt="Frontend Technologies"/><br>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell" alt="Tools"/>
+</div>
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+---
 
-- 🌱 Working with Java, Spring Boot, AWS, MySQL, Docker, HTML, CSS, JavaScript and UI/UX 😎
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2024 goals: Make project and contribute to Open Source
-- 🔭 I just launched my portfolio: **[https://sanajitjana.github.io/](https://sanajitjana.github.io)**
-- 💼 See my experience over the year: **[Resume](https://drive.google.com/uc?export=download&id=1jtjEph6YqdL_PebgMn3OwNHgH4wopH4Z)**
+### ⚡ Interests & Hobbies:
+- 💻 Exploring new technologies & scalable architectures
+- 🏍️ Riding & traveling
+- 🎯 Competitive coding & problem-solving
 
-  <br />
+---
 
-### Familiar Tech Stack:
-
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
-
-<!-- language -->
-
-[![](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)]()
-
-<br/>
-
-### Used Tools:
-
-[![](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)]()
-
-
-<br />
-
-### Interests:
-
-- Explore new Tech 💻
-- Travel & Ride 🌎
-
-
-<!-- ### My GitHub Stats: -->
+### 📊 GitHub Stats:
 <p>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
+
+---
+
+### 📢 Let's Build Something Amazing Together!
+💡 Have an exciting project idea? Let's discuss! Feel free to **connect** 🚀
