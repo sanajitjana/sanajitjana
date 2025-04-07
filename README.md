@@ -47,6 +47,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
+[![Sanajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanajitjana&theme=github-compact)](https://github.com/sanajitjana)
+
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 ---
