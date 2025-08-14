@@ -19,7 +19,7 @@
 - 🌱 Deepening my expertise in **Spring Boot, AWS, PostgreSQL, Docker, and Microservices**
 - 🛠️ Building **scalable microservice-based backend solutions**
 - 👥 Open to collaborating with other developers and contributing to **Open Source**
-- 🎯 2025 Goals: Deliver high-performance projects & enhance system architecture skills
+- 🎯 Goals: Deliver high-performance projects & enhance system architecture skills
 - 📢 Check out my portfolio: **[sanajitjana.github.io](https://sanajitjana.github.io)**
 - 📝 View my **[Resume](https://drive.google.com/uc?export=download&id=1jtjEph6YqdL_PebgMn3OwNHgH4wopH4Z)**
 
